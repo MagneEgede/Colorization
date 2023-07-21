@@ -1,6 +1,6 @@
 """
 cnn_vgg16_landscape_crossv.py
-@author: s231366 Lam Hui ab_channelin (Henry)
+@author: s231366 Lam Hui Yin (Henry)
 """
 
 #Method inspired from https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/
